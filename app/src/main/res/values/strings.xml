@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="edit_text1">Enter your first no:</string>
+    <string name="edit_text2">Enter your Second no:</string>
+    <string name="add_text">ADDATION</string>
+    <string name="sub_text">SUBTRUCTION</string>
+    <string name="mul_text">MULTIPLICATION</string>
+    <string name="div_text">DIVISION</string>
+</resources>
